@@ -1,5 +1,10 @@
 # Car Data Analysis and Machine Learning Model
 
+## Solution
+<img width="1470" alt="Screenshot 2025-01-15 at 1 47 44 AM" src="https://github.com/user-attachments/assets/6fc2b842-86b9-4729-9bf7-94d96cf18b60" />
+
+
+
 ## Overview
 
 This project provides an exploratory data analysis (EDA) and a machine learning classification model for predicting car acceptability based on various attributes. It integrates data manipulation, visualization, and machine learning using Python libraries such as pandas, matplotlib, and scikit-learn.
@@ -8,8 +13,6 @@ This project provides an exploratory data analysis (EDA) and a machine learning 
 
 1. **car\_data\_ml\_analysis.py**: This script implements a machine learning model using the Decision Tree Classifier.
 2. **Original Data Processing and Visualization Script**: The original user-provided script performs data cleaning, visualization, and exploratory analysis.
-
----
 
 ## Instructions
 
